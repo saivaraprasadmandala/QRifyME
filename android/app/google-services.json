@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873988135049",
+    "project_id": "event-tracker-d2259",
+    "storage_bucket": "event-tracker-d2259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873988135049:android:bdd0752cee62b2c130ce58",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873988135049-6pm8b0uqnlesr306tnjbjgfrc5tvc5p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeB7rCYF7I9zFd4V8Beo3BgBRPVaYo7TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873988135049-6pm8b0uqnlesr306tnjbjgfrc5tvc5p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
