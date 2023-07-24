@@ -138,8 +138,8 @@ To track user attendance and implement a blocking mechanism, I introduced a 'tim
 
 ## Author
 
-- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
-- **Repository :** https://github.com/saiabhiramjaini/QRify_ME
+- [@saiabhiramjaini](https://github.com/Vara-2004)
+- **Repository :** (https://github.com/Vara-2004/Event-Tracker)
 
 ## Feedback
 
