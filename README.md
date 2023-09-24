@@ -138,8 +138,8 @@ To track user attendance and implement a blocking mechanism, I introduced a 'tim
 
 ## Author
 
-- (https://github.com/Vara-2004)
-- **Repository :** (https://github.com/Vara-2004/Event-Tracker)
+- (https://github.com/saivaraprasadmandala)
+- **Repository :** (https://github.com/saivaraprasadmandala/Event-Tracker)
 
 ## Feedback
 
