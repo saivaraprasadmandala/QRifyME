@@ -1,6 +1,6 @@
-# QRify ME - An event tracking app.
+# QRifyME - An event tracking app.
 
-Welcome to **QRify ME**, an innovative app designed to simplify event hosting and attendance tracking! With features like QR code-based registration, location tracking, real-time notifications, and feedback collection, QRify ME is your all-in-one solution for managing events effortlessly.
+Welcome to **QRifyME**, an innovative app designed to simplify event hosting and attendance tracking! With features like QR code-based registration, location tracking, real-time notifications, and feedback collection, QRifyME is your all-in-one solution for managing events effortlessly.
 
 ## 🌟 **Features at a Glance**
 - **Event Hosting**: Manage and organize events with ease.
@@ -12,7 +12,7 @@ Welcome to **QRify ME**, an innovative app designed to simplify event hosting an
 
 ## 🛠 **Problem Statement**
 
-Organizing events often involves challenges like verifying attendees, tracking their presence, and collecting feedback. QRify ME addresses these issues with:
+Organizing events often involves challenges like verifying attendees, tracking their presence, and collecting feedback. QRifyME addresses these issues with:
 - QR code-based event registration and attendance tracking.
 - Real-time location-based updates.
 - Automated feedback collection.
@@ -23,7 +23,7 @@ Organizing events often involves challenges like verifying attendees, tracking t
 Utilizing the `qr_flutter` package, we generate unique QR codes for attendees. These codes serve as digital tickets for authentication.
 
 ### **2️⃣ Location-Based Tracking**
-Integrated with **Google Maps API**, QRify ME allows hosts to:
+Integrated with **Google Maps API**, QRifyME allows hosts to:
 - Set event locations.
 - Define a radius for attendance tracking.
 - Store latitude and longitude coordinates for precise monitoring.
@@ -53,7 +53,7 @@ A dynamic user collection in **Firebase Firestore** tracks attendees present at 
 
 ![image](https://github.com/saiabhiramjaini/QRify_ME/assets/115941546/c8df3e09-1a29-4f47-8b8e-2e42aa3d373b) 
 
-## QRify ME app
+## QRifyME app
 
 **[Download the App Here](https://drive.google.com/file/d/1Np-RL-XyX2NONKjGhxxfBxP7LbBHxhFA/view?usp=sharing)**
 
@@ -139,7 +139,7 @@ A dynamic user collection in **Firebase Firestore** tracks attendees present at 
 
 
 ## 🌐 **Applications**
-QRify ME is ideal for:
+QRifyME is ideal for:
 - 🏢 **Workshops and Training Sessions**  
 - 🎓 **Educational Events**  
 - 🎭 **Cultural Gatherings**  
@@ -148,7 +148,7 @@ QRify ME is ideal for:
 
 ## 🧑‍💻 **Author**
 - GitHub: [saivaraprasadmandala](https://github.com/saivaraprasadmandala)
-- **Repository**: [QRify ME Repository](https://github.com/saivaraprasadmandala/Event-Tracker)
+- **Repository**: [QRifyME Repository](https://github.com/saivaraprasadmandala/Event-Tracker)
 - **Email**: mandalasaivaraprasad@gmail.com
 
 ## 💬 **Feedback**
